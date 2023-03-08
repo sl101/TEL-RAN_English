@@ -1,0 +1,60 @@
+1. When you work on a project or in the team, how do you know that you are successful?
+
+I measure success not only by my work, but also by the work of my team. For me to be considered successful, the team must achieve both our individual and our team goals.
+I tend to look at success in stages. 
+As someone who is energized by new challenges, I never want to be in a situation where I feel like I have nothing else to learn or achieve. 
+If during my work I can leave work every evening satisfied that I have learned something new or useful, this is considered a success for me.
+
+Alina part
+The project should be completed within the allocated time frame. If the project is completed ahead of time, it can be considered a great success.  If the project is completed under budget, it can be considered a success.Ultimately, success is defined by the goals and objectives set for the project, and meeting or exceeding them can be considered a measure of success.
+
+Ivan part
+The success of a project as a team can consist of the achievement of the set objectives, the delivery of the project on time, within budget. In any case, positive feedback from team members and stakeholders can also be an indication of success. (and that is consistency, listening to each other and respecting each other)
+
+2. You see that a colleague of you opens a low quality pull request and does not react to your comments. What will you do?
+
+At first, I spoke to them in private, non-confrontationally, using "I" statements to suggest that there might be a problem that we should solve together. 
+I will also do my best to identify the root of the problem and see if I or other team members can improve that person's performance. 
+This approach works for me about 95% of the time; in cases where this is not the case, I ask for a private consultation with my supervisor to brainstorm other solutions.
+
+First, I will try to discuss this issue with your management or HR department, who can take appropriate action. 
+If it seems to me that a colleague is doing poor quality work, this can affect the success of the entire team and the company, so it is important to take action immediately.
+
+Second, if possible, try to help your colleague. He may need additional training or support in carrying out his duties. 
+Try to find time to talk with a colleague to find out what difficulties he is experiencing and how you can help him.
+
+Third, try not to criticize a colleague openly or publicly. 
+This can create tension within the team and negatively affect relationships with a colleague. 
+Instead, focus on solving the problem rather than finding someone to blame.
+
+In general, it is important to remain professional and find constructive ways to solve problems.
+
+Alina part
+
+My first step it will be : Send a message to your colleague, asking if they have any questions or need help with the pull request. Make sure to keep the tone positive and helpful. First step :Explain the problem with the pull request and why you think it needs improvement. Be specific and provide examples if possible .. Then - Seek help from Others: If your colleague is still not responding, seek help from other team members or your manager.
+
+Ivan part
+
+If a colleague opens a poor quality application and does not respond to my comments, I will try to talk to someone from the outside. I will ask them to analyse my comments and my colleague's work. Maybe I am wrong or maybe I need to phrase it another way. And I will try to talk differently.
+
+3. You have a planned project deadline by the end of the week but you recognized that you need another 3 weeks. What will you do?
+
+When I realize that I do not have time to complete the project within the specified time, it is important to urgently contact the management and inform about it. 
+After all, it is better to report the problem in advance than not to complete the work on time.
+
+To begin with, I will prepare a brief explanation of why I cannot complete the project on time and propose a new deadline. 
+If there are any obstacles or difficulties that prevent the completion of the project, I mention them and explain how they affect my work.
+
+I will suggest constructive solutions that can help complete the project faster, such as using more resources or getting more help. 
+If I am willing to work overtime or weekends, I will state this in the explanation.
+
+I understand that management can be frustrated if I don't get the job done on time. 
+However, if I give them honest information and offer a constructive solution, they will be more understanding and willing to support me.
+
+Alina part
+
+My steps: Let all stakeholders know that there will be a delay and explain why.Review the tasks that need to be completed and focus on the most important ones first.Set a new, realistic deadline that takes the delay into account.Make sure everyone involved knows about the new deadline.Take any steps you can to speed up the project, such as adding resources or reassigning tasks. Always remember, communication is key!!
+
+Ivan part
+
+If I realise that I will need another 3 weeks to complete a project scheduled for the end of the week, I will inform my leader or project manager as soon as possible. I will explain the reasons for the delay and give a new estimated date for completion. It is important to be transparent in situations to manage expectations and keep the project on track for success.

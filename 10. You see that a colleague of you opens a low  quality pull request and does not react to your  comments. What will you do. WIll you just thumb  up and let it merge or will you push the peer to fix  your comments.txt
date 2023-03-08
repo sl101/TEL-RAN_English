@@ -1,0 +1,44 @@
+Question:
+You see that a colleague of you opens a low quality pull request and does not react to your
+comments. What will you do? WIll you just thumb up and let it merge or will you push the peer to fix
+your comments?
+
+Answer:
+Я думаю, что в такой ситуации нельзя молчать. Обязательно нужно обратиться к коллеге, чтобы выяснить, какие проблемы 
+возникли, и как их можно решить. Возможно, он не знает, что именно нужно исправить, или возникли какие-то технические
+сложности. Я бы попытался связаться с ним, чтобы объяснить свои комментарии и дать рекомендации по улучшению качества кода.
+Если это не сработает, я вынужден буду передать вопрос старшему члену команды или руководителю проекта, чтобы найти наилучший 
+способ разрешения ситуации. Потому что в итоге это может отразиться на проекте и нашей команде в целом. Важно сотрудничать 
+и находить компромиссы, чтобы достичь наилучшего результата.
+
+
+I think that in such situation to remain silent is a bad practice. It is necessary to contact a colleague to find out what problems
+he had and how they can be resolved. Perhaps he doesn't know what exactly need to be fixed, or he has some technical difficulties. 
+I would try to contact him to explain my comments and make recommendations for improving the quality of the code.
+If that doesn't work, I'll have to escalate the issue to a senior team member or project manager to find the best way to resolve
+the situation. Because in the end it can affect our command project and our team as a whole. It is important to cooperate
+and find compromises to achieve the best result.
+
+============================================
+My answer:
+
+First, I will try to understand why my colleague is not answering.
+I understand that there may be different reasons for this, including those not related to the work itself.
+Perhaps at first it is best to ask him about it.
+In the case of a technical or communicative misunderstanding, ask for help from senior colleagues or authorities.
+The worst option is to look for the guilt or silence of the problem.
+
+-----------------------
+chatgpt ansewered:
+
+If I notice that a colleague has opened a poor-quality pull request and is not responding to my comments, I wouldn't just give a thumbs up and let him merge. Instead, I would encourage my colleague to correct the comments and improve the quality of their work. Here are the steps I would take:
+
+Reach out to a colleague: I would first turn to my colleague and ask if they need any help or clarification with my comments. Sometimes the lack of a response can be due to a lack of understanding or misunderstanding and I would like to make sure they have everything they need to make the necessary improvements.
+
+Explain the importance of quality work: I would explain to my colleague the importance of quality work. I would like to stress that our work will be judged by others and that we should strive to produce the best possible work.
+
+Providing recommendations and feedback: I would provide specific feedback on how they can improve their work, including any changes that need to be made to the pull request. I would also like to offer advice on best practices and share any resources you might find helpful.
+
+Follow-up: If my colleague does not respond or make the necessary changes, I will contact them and re-emphasize the importance of doing a high quality job. I would also offer to help them make the necessary improvements if necessary.
+
+In general, I believe that it is important to take responsibility for the quality of our work both from ourselves and from our colleagues. By providing feedback and recommendations, we can help each other improve and improve the work. When necessary, we must also be prepared for difficult conversations to ensure that we meet the required standards.

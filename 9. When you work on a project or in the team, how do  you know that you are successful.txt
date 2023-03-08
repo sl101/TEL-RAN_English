@@ -1,0 +1,46 @@
+Question:
+When you work on a project or in the team, how do  you know that you are successful
+
+Answer:
+Когда я делаю свой собственный проект. Тогда его можно считать успешным, когда:
+Я мог решить новую трудную задачу;
+выполненный проект полностью соответствует техническому заданию;
+проект работает как положено;
+Клиент доволен и оставил положительный отзыв.
+Если это групповой проект, то мою работу можно назвать успешной только в том случае, если весь проект был успешным. И каждый член команды выполнил все свои задачи и требования.
+Я имею в виду, что успех одного человека не может повлиять на общее состояние продукта, если это удалось только части команды.
+Важно, чтобы все члены команды разработчиков успешно выполнили все задачи и требования.
+
+
+When I do my own project. Then it can be considered successful when:
+I could solve a new difficult problem;
+the completed project fully complies with the terms of reference;
+the project is working as expected;
+The customer is satisfied and left positive feedback.
+If this is a group project, then my work can only be called successful if  all the project was successful. And each member of the team fulfilled all their tasks and requirements.
+I mean, the success of one person cannot affect the overall state of the product if only part of the team has succeeded.
+It is important that all members of the development team successfully complete all tasks and requirements.
+
+Мой вариант =============================================
+Question:
+When you work on a project or in the team, how do  you know that you are successful
+Answer:
+
+Когда я делаю свой собственный проект. Тогда его можно считать успешным, когда:
+Я мог решить новую трудную задачу;
+выполненный проект полностью соответствует техническому заданию;
+проект работает как положено;
+Клиент доволен и оставил положительный отзыв.
+Если это групповой проект, то мою работу можно назвать успешной только в том случае, если весь проект был успешным. И каждый член команды выполнил все свои задачи и требования.
+Я имею в виду, что успех одного человека не может повлиять на общее состояние продукта, если это удалось только части команды.
+Важно, чтобы все члены команды разработчиков успешно выполнили все задачи и требования.
+
+
+When I do my own project. Then it can be considered successful when:
+I could solve a new difficult problem;
+the completed project fully complies with the terms of reference;
+the project is working as expected;
+The customer is satisfied and left positive feedback.
+If this is a group project, then my work can only be called successful if  all the project was successful. And each member of the team fulfilled all their tasks and requirements.
+I mean, the success of one person cannot affect the overall state of the product if only part of the team has succeeded.
+It is important that all members of the development team successfully complete all tasks and requirements.

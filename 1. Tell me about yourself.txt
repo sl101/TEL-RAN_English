@@ -1,0 +1,26 @@
+Hello!
+My name is Viacheslav Zhevaha.
+I am from Ukraine and now I live in Germany in Berlin.
+I have an economic education as an accountant. 
+I have experience of working in large international companies in contact with a large number of people.
+My first IT experience was developing an MVP application for an insurance company. I worked as the head of one of the sales departments and suggested that the management develop their own application for selling insurance products.
+I failed to get the management interested.
+But then I was very interested in the development process itself. At first I was interested in it as a hobby. I was trying to write simple Android applications. Then I took a Java language course.
+During my training, I had an experience of developing in a team. 
+Then I began to think that programming could be my new profession.  
+Later, I became interested in developing a web interface. Independently studied the layout of the site and related technologies. Now I have the opportunity to get professional training in front-end development courses at TELRAN courses.
+I decided to take up programming professionally and become a specialist in this field.
+=======================================================
+Svetlana
+
+"For me, success means being a good team player and a technically competent engineer who delivers projects on time according to stakeholder expectations. To assess my success in these areas, I use a combination of feedback from my colleagues and my own personal metrics.
+
+Firstly, I actively seek feedback from my team members and stakeholders throughout a project. I regularly ask my colleagues how I am doing and welcome constructive criticism so that I can improve my performance. I also participate in regular 360 feedback rounds, which give me a comprehensive view of my performance from multiple perspectives. I take this feedback seriously and work on addressing any areas where I need to improve.
+
+Secondly, I have my own KPIs that I use to measure my success. For example, I track how many features or projects I complete per year, how many comments I receive on my Pull Requests on average, and how long it takes me to develop a feature. By measuring these metrics, I can assess my productivity and identify areas where I can improve my performance.
+
+Finally, I also evaluate the success of the projects that I deliver as part of the team. This includes assessing the quality of the final product, whether it met stakeholder expectations, and whether it was delivered on time and within budget. By analyzing the success of the projects I work on, I can understand the impact of my contributions and identify areas where I can improve.
+
+Overall, by using a combination of feedback from my colleagues and personal metrics, I can evaluate my success as a team player and engineer. By continuously striving to improve my performance, I can ensure that I am delivering projects on time and to a high standard, and contributing to the success of the team."
+
+*Key Performance Indicator
